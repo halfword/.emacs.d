@@ -1,0 +1,45 @@
+
+;; ----- smex-history -----
+(
+ package-list-packages
+ slitex-mode
+ dired
+ ispell
+ c-set-style
+ smex
+ compile
+)
+
+;; ----- smex-data -----
+(
+ (package-list-packages . 12)
+ (slitex-mode . 3)
+ (smex . 1)
+ (everything . 23)
+ (everything-find-file . 11)
+ (slime . 13)
+ (org-mode . 1)
+ (flyspell-mode . 1)
+ (ispell . 2)
+ (slime-abort-connection . 1)
+ (browse-kill-ring . 1)
+ (dired . 2)
+ (irfc-visit . 7)
+ (irfc-mode . 5)
+ (compile . 1)
+ (byte-compile-file . 1)
+ (c-set-style . 2)
+ (color-theme-standard . 1)
+ (color-theme-xp . 1)
+ (color-theme-blue-gnus . 3)
+ (color-theme-dark-blue2 . 3)
+ (color-theme-taylor . 1)
+ (color-theme-black-on-gray . 1)
+ (color-theme-blue-mood . 1)
+ (color-theme-initialize . 2)
+ (color-theme-charcoal-black . 1)
+ (color-theme-sitaramv-nt . 1)
+ (color-theme-sanityinc-tomorrow-bright . 5)
+ (color-theme-molokai . 1)
+ (color-theme-dark-green . 1)
+)
